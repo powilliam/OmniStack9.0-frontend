@@ -4,7 +4,7 @@ import Routes from './routes';
 
 import logo from './assets/logo.svg';
 
-import './app.css';
+import './App.css';
 
 const App = () => {
     return (
